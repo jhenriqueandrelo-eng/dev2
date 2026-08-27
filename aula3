@@ -76,8 +76,31 @@
                     <label for="nivel_junior_id">Júnior</label>
                 </div>
             </fieldset>
+            
 
-                </div>
+            <fieldset>
+                 <legend>Tecnologias que domina:</legend> 
+                 <div>
+                    <input id="tec_html_id"
+                           name="tecnologias"
+                           type="checkbox"
+                           value="html">
+                    <label for="tec_html_id">HTML</label>
+                 <div>
+                    <input id="tec_css_id"
+                           name="tecnologias"
+                           type="checkbox"
+                           value="css">
+                    <label for="tec_css_id">CSS</label>
+                 </div>
+                 <div>
+                    <input id="tec_js_id"
+                           name="tecnologias"
+                           type="checkbox"
+                           value="js">
+                    <label for="tec_js_id">JS</label>
+                 </div>
+            </fieldset>
              </fieldset>
 
             </fieldset>
