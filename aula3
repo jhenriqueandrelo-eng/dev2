@@ -58,6 +58,25 @@
                 </div>
             </fieldset>
 
+            <fieldset>
+                <legend>Nível desejado</legend>
+                <div>
+                    <input id="nivel_estagio_id"
+                           name="nivel"
+                           type="radio"
+                           value="estagio">
+                <label for="nivel_estagio_id">Estagágio</label>
+                </div>
+
+                <div>
+                    <input id="nivel_junior_id"
+                           name="nivel"
+                           type="radio"
+                           value="junior">
+                    <label for="nivel_junior_id">Júnior</label>
+                </div>
+            </fieldset>
+
                 </div>
              </fieldset>
 
